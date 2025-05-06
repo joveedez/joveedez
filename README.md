@@ -9,7 +9,7 @@ In AP Computer Science Principles I and a fellow classmate created a hangman gam
 - Python Graphics 
 
 ### Huntley Homework Hero:
-In Software Engineering my group created a platform for students to ask homework questions and get a response from their teacher.
+In Software Engineering my group created a platform for students to ask homework questions and get a response from their teacher. [Repo Link](https://github.com/joveedez/SWE)
 - Python
 - Html and CSS
 - Flask
